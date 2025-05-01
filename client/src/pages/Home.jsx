@@ -47,7 +47,7 @@ const Home = ({ isLoggedIn, onLogout }) => {
                 From newcomers to navigators - connecting students to succeed together.
               </h1>
               <p className="text-gray-600 text-lg mb-8">
-                A real-time platform designed to help juniors in college connect with seniors for personalized guidance.
+                A very real-time platform designed to help juniors in college connect with seniors for personalized guidance.
               </p>
               {!isLoggedIn && (
                 <motion.div 
